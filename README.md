@@ -10,8 +10,6 @@ Creating Event or Task For Everyday With Start And End Time .
 
 
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
 ## Technology
 
 - **[Laravel](https://laravel.com/)**
