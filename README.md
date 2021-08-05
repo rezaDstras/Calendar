@@ -7,6 +7,7 @@
 ## About Calendar
 
 Creating Event or Task For Everyday With Start And End Time .
+Showing Montly - Daily - Weekly and 4 Days Calendar .
 
 
 
