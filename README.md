@@ -1,4 +1,4 @@
-![alt text](https://github.com/[rezaDstras]/[Calendar]/[main]/public/Untitled.png?raw=true)
+![alt text](https://github.com/[rezaDstras]/[Calendar]/public/Untitled.png?raw=true)
 
 <p align="center">
 
